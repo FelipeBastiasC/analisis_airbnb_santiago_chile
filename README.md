@@ -51,4 +51,5 @@ Para consolidar y visualizar los hallazgos de este análisis, desarrollé un das
 *   **/analisis_airbnb_santiago.ipynb**: Contiene el código completo del análisis, desde la limpieza de datos hasta la generación de todas las visualizaciones y conclusiones detalladas.
 *   **/data/AirBnb_chile.csv**: El conjunto de datos descargado desde Kaggle utilizado para el análisis en el notebook.
 *   **/data/df_limpio.csv**: El conjunto de datos limpio utilizado para el análisis en el notebook y para la creación del dashboard en Power BI.
+*   **/data/dashboard_airbnb.pbix**: El dashboard creado en Power BI para la visualización de la distribución de Airbnb en Santiago de Chile.
 *   **/images/**: Carpeta con las imágenes y gráficos utilizados en esta documentación.
