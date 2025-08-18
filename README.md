@@ -32,7 +32,7 @@ Para consolidar y visualizar los hallazgos de este análisis, desarrollé un das
 
 ### Vista General del Dashboard
 
-![Vista General del Dashboard](URL_a_la_captura_principal.png)
+![Vista General del Dashboard](https://github.com/FelipeBastiasC/analisis_airbnb_santiago_chile/blob/f0568561423a65bd66dd850f067167f8b69f3ced/images/Dashboard%20Airbnb%20Santiago%202%20.png)
 
 ---
 
