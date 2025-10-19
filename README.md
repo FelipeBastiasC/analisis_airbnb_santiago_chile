@@ -1,7 +1,5 @@
 # Análisis del Mercado de Airbnb en Santiago de Chile
 
-![Banner del Proyecto](images/Banner.png)
-
 ## 📜 Resumen del Proyecto
 
 Este proyecto presenta un Análisis Exploratorio de Datos (EDA) del mercado de alquileres a corto plazo de Airbnb en Santiago de Chile. El objetivo es descubrir patrones clave en la distribución de precios, la concentración geográfica de las propiedades y las características que definen la oferta. Este análisis sirve como base para entender la dinámica del mercado, tanto para viajeros como para anfitriones potenciales.
